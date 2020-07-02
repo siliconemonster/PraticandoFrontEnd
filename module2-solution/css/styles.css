@@ -8,7 +8,11 @@ h1 {
   margin-bottom: 15px;
   color: #D0077F;
   text-align:center;
-  border:
+}
+
+div>div {
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 p.description {
