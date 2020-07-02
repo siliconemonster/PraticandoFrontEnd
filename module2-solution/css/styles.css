@@ -4,9 +4,15 @@
   box-sizing: border-box;
 }
 
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
   margin-bottom: 15px;
   color: #D0077F;
+  font-size: 300%;
+  font-weight: bold;
   text-align:center;
 }
 
@@ -15,26 +21,27 @@ div>div {
   margin-bottom: 10px;
 }
 
-p.description {
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Helvetica;
-  color: #000000;
-}
 p.title {
   background-color: #000000;
   text-align: center;
+  font-weight: bold;
   width: 50%;
   height: 50px;
   margin-right: 0;
   margin-top: 0;
   margin-left: auto;
   margin-bottom: auto;
-  font-family: Helvetica;
   color: #D0077F;
 }
+
+p.description {
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  color: #000000;
+}
+
 div#pink1{
   background-color: #FF9ED9;
 }
