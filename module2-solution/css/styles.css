@@ -6,6 +6,7 @@
 
 body{
   font-family: Arial, Helvetica, sans-serif;
+  padding: 50px;
 }
 
 h1 {
@@ -16,7 +17,7 @@ h1 {
   text-align: center;
 }
 
-div>div {
+div.col-lg-4, div.col-md-6, div.col-sm-12{
   margin-right: 10px;
   margin-bottom: 10px;
 }
@@ -47,6 +48,9 @@ p.description {
 div#pink1{
   background-color: #FF9ED9;
 }
+p#pink1{
+  color: #FF9ED9;
+}
 div#pink2{
   background-color: #FF69B4;
 }
@@ -64,7 +68,7 @@ div#pink3{
   .col-lg-4 {
     float: left;
     border: 5px solid black;
-    width: 33.33%;
+    width: 33.33333333333333333333%;
   }
 }
 
