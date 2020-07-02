@@ -23,6 +23,7 @@ div.col-lg-4, div.col-md-6, div.col-sm-12{
   margin-right: 40px;
   margin-bottom: 40px;
   border: 5px solid black;
+  width: 300px;
 }
 
 p.title {
