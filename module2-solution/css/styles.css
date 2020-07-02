@@ -20,6 +20,7 @@ h1 {
 div.col-lg-4, div.col-md-6, div.col-sm-12{
   margin-right: 10px;
   margin-bottom: 10px;
+  border: 5px solid black;
 }
 
 p.title {
@@ -67,8 +68,7 @@ div#pink3{
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
-    border: 5px solid black;
-    width: 33.33333333333333333333%;
+    width: 32%;
   }
 }
 
@@ -76,8 +76,7 @@ div#pink3{
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
     float: left;
-    border: 5px solid black;
-    width: 50%;
+    width: 45%;
   }
 }
 
@@ -85,7 +84,6 @@ div#pink3{
 @media (max-width: 767px) {
   .col-sm-12 {
     float: left;
-    border: 5px solid black;
     width: 100%;
   }
 }
