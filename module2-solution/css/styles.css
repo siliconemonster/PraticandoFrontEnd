@@ -46,6 +46,7 @@ p.description {
   margin-right: auto;
   margin-left: auto;
   color: #000000;
+  overflow: scroll;
 }
 
 div#pink1{
