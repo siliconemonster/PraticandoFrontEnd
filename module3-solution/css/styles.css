@@ -50,6 +50,9 @@ body{
 /* END HEADER */
 
 /****************** CONTENT ******************/
+.container{
+  margin: 0px;
+}
 div#main-content{
   padding-left: 0px;
   padding-right: 0px;
