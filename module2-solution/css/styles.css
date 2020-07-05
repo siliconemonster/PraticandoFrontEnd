@@ -58,8 +58,15 @@ p#pink1{
 div#pink2{
   background-color: #FF69B4;
 }
+p#pink2{
+  color: #FF69B4;
+}
 div#pink3{
   background-color: #FF009A;
+}
+
+p#pink3{
+  color: #FF009A;
 }
 
 /* Simple Responsive Framework. */
