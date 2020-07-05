@@ -97,21 +97,25 @@ p.description {
 div#pink1{
   background-color: #FF9ED9;
 }
-p#ppink1{
+p#ppink1, a#apink1{
   color: #FF9ED9;
 }
 div#pink2{
   background-color: #FF69B4;
 }
-p#ppink2{
+p#ppink2, a#apink2{
   color: #FF69B4;
 }
 div#pink3{
   background-color: #FF009A;
 }
 
-p#ppink3{
+p#ppink3, a#apink3{
   color: #FF009A;
+}
+
+a#apink1, a#apink2, a#apink3{
+  background-color: #000000;
 }
 
 /* Simple Responsive Framework. */
