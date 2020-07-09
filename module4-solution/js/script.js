@@ -29,7 +29,7 @@ WARNING!!! WARNING!!!
 
 */
 
-// STEP 1:
+// STEP 1: ******************* OK *******************
 // Wrap the entire contents of script.js inside of an IIFE
 // See Lecture 52, part 2
 // (Note, Step 2 will be done in the SpeakHello.js file.)
