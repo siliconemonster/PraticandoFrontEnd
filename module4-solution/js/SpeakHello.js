@@ -1,4 +1,4 @@
-  // STEP 2: Wrap the entire contents of SpeakHello.js inside of an IIFE
+  // STEP 2: Wrap the entire contents of SpeakHello.js inside of an IIFE ******************** OK *******************
   // See Lecture 52, part 2
 
   // IIFE
