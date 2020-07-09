@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### First Project:
 
 Make a responsive website with html and basic css.
-Click [here](https://siliconemonster.github.io/PraticandoFrontEnd/module2-solution/) to see the result.
+[Click here to see the result](https://siliconemonster.github.io/PraticandoFrontEnd/module2-solution/).
 
 ### Second Project:
 
 Make a responsive website with html and css. Using bootstrap was required.
-Click [here](https://siliconemonster.github.io/PraticandoFrontEnd/module3-solution/) to see the result.
+[Click here to see the result](https://siliconemonster.github.io/PraticandoFrontEnd/module3-solution/).
