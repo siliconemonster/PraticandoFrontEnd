@@ -12,7 +12,7 @@
 /*
 Hello Yaakov
 Good Bye John
-Good Bye Jen
+Good Bye Jennie
 Good Bye Jason
 Hello Paul
 Hello Frank
