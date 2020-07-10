@@ -35,7 +35,7 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 
 // IIFE
-(function (something) {
+(function () {
 
   var names = ["Yaakov", "John", "Jennie", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
@@ -66,4 +66,4 @@ WARNING!!! WARNING!!!
       // helloSpeaker.xxxx
     }
   }
-})("Something");
+})();
